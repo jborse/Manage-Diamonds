@@ -59,8 +59,6 @@
 					}	 
 				?>	
 				
-				<!--<img src="<?php echo esc_url( plugins_url( 'images/animat-diamond.gif', __FILE__ ) ) ?>" id="gif" style="display: block; margin: 0 auto; width: 100px; visibility: hidden;">-->
-
 				<form class="form-horizontal" id="import_form" method="post" name="upload_excel" enctype="multipart/form-data">
                     <fieldset>
 						<div class="form-group">
