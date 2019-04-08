@@ -8,7 +8,7 @@ Manage Diamond Plugin for import CSV file and show large data using datatable Se
 
 == Description ==
 
-This plugin will create one table at installation time.
+This plugin will create one table at installation time and add data of import csv file in same table. 
 
 Features:
 
