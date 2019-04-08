@@ -16,6 +16,8 @@ Features:
 - See all records in Datatable using Server Side Scripting ajax to avoid load time.
 - we can use large number of records here.
 
+-- use given CSV file to import sample.csv
+
 == Installation ==
 
 Upload the Manage Diamonds plugin to your blog, Activate it.
